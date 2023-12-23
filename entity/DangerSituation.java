@@ -10,12 +10,12 @@ public class DangerSituation {
     private String createTime;
     private String address;
     private String camera;
-    private String imgURL;
+    private String imgUrl;
     private Integer appealState;
     private String solvePerson;
     private Boolean isSolved;
     private String appealContent;
     private String appellant;
     private String staffNumber;
-    private Integer alarmID;
+    private Integer alarmId;
 }

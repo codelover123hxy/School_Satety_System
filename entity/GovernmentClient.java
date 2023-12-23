@@ -13,6 +13,6 @@ public class GovernmentClient {
     private String phone;
     private String email;
     private String address;
-    private String avatarURL;
+    private String avatarUrl;
     private String password;
 }

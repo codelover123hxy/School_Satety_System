@@ -16,5 +16,5 @@ public class SchoolClient {
     private String nickname;
     private String email;
     private String address;
-    private String avatarURL;
+    private String avatarUrl;
 }

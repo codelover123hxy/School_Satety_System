@@ -1,7 +1,7 @@
 package com.example.springboot.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.example.springboot.entity.newEntity.SchoolClient;
+import com.example.springboot.entity.SchoolClient;
 
 public interface ISchoolClientService extends IService<SchoolClient> {
 }

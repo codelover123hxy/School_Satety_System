@@ -12,7 +12,7 @@ public class File {
     private String name;
     private String type;
     private Long size;
-    private String URL;
+    private String url;
     private String md5;
     private Boolean isDelete;
     private Boolean enable;
